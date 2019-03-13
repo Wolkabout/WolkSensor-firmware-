@@ -10,6 +10,12 @@
 WolkSensor is a device with built-in temperature, pressure, humidity and movement sensor.
 List of Firmware Release Versions for WolkSensor device in WolkSensor.bin file:
 
+**Version 4.3.7**
+- [BUGFIX] Update certification time on every connection to the platform to 22.November 2018.
+
+**Version 4.3.6**
+- [BUGFIX] Update certification time on every connection to the platform to 29.August 2018.
+
 **Version 4.3.5**
 - [BUGFIX] If offset values read from EEPROM higher than limits reset it to zero
 - [IMPROVEMENT] Set new date&time for ca.crt on device init
